@@ -1,5 +1,8 @@
 //#include"Head.h"
 //#include<cstdio>
+//#include<iostream>
+//#include<string>
+//using namespace std;
 //#include<cmath>
 //
 //int main() {
@@ -17,3 +20,4 @@
 //	printf("sum=%.2f", sum);
 //	return 0;
 //}
+
