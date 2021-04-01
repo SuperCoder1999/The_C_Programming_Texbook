@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="例2-1.cpp" />
+    <ClCompile Include="例2-2.cpp" />
+    <ClCompile Include="例2-3.cpp" />
+    <ClCompile Include="例2-4.cpp" />
+    <ClCompile Include="例2-5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />
