@@ -155,6 +155,8 @@
     <ClCompile Include="例3-3.cpp" />
     <ClCompile Include="例3-4.cpp" />
     <ClCompile Include="例3-5.cpp" />
+    <ClCompile Include="例3-6.cpp" />
+    <ClCompile Include="例3-7.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />

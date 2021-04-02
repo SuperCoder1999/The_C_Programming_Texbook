@@ -63,6 +63,12 @@
     <ClCompile Include="例3-5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例3-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例3-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
