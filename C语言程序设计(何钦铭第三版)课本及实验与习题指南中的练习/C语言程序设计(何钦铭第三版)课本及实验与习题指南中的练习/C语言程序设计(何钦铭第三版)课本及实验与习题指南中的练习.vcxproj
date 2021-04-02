@@ -151,12 +151,17 @@
     <ClCompile Include="例2-8.cpp" />
     <ClCompile Include="例2-9.cpp" />
     <ClCompile Include="例3-1.cpp" />
+    <ClCompile Include="例3-10.cpp" />
+    <ClCompile Include="例3-11.cpp" />
     <ClCompile Include="例3-2.cpp" />
     <ClCompile Include="例3-3.cpp" />
     <ClCompile Include="例3-4.cpp" />
     <ClCompile Include="例3-5.cpp" />
     <ClCompile Include="例3-6.cpp" />
     <ClCompile Include="例3-7.cpp" />
+    <ClCompile Include="例3-8.cpp" />
+    <ClCompile Include="例3-9.cpp" />
+    <ClCompile Include="例4-1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />

@@ -69,6 +69,21 @@
     <ClCompile Include="例3-7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例3-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例3-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例3-10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例3-11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
