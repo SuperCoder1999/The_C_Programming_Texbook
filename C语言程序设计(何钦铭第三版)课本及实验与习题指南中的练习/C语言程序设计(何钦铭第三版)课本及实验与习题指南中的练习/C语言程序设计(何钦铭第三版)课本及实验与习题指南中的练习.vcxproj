@@ -173,6 +173,10 @@
     <ClCompile Include="例4-7：1-100阶乘和.cpp" />
     <ClCompile Include="例4-8：数组中找最大值.cpp" />
     <ClCompile Include="例4-9：逆序输出.cpp" />
+    <ClCompile Include="例5-1.cpp" />
+    <ClCompile Include="例5-2.cpp" />
+    <ClCompile Include="例5-3.cpp" />
+    <ClCompile Include="例5-4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />
