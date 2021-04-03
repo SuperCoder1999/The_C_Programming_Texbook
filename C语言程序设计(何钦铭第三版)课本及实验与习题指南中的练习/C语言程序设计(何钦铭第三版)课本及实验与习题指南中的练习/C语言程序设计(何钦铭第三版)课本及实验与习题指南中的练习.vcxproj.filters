@@ -93,6 +93,30 @@
     <ClCompile Include="例4-4：判断素数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例4-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-7：1-100阶乘和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-8：数组中找最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-9：逆序输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-10：1-100的素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-11：斐波那契数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-12：穷举算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
