@@ -176,7 +176,9 @@
     <ClCompile Include="例5-1.cpp" />
     <ClCompile Include="例5-2.cpp" />
     <ClCompile Include="例5-3.cpp" />
-    <ClCompile Include="例5-4.cpp" />
+    <ClCompile Include="例5-4：输出1-100中素数.cpp" />
+    <ClCompile Include="例5-5.cpp" />
+    <ClCompile Include="例5-6.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />
