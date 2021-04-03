@@ -162,6 +162,9 @@
     <ClCompile Include="例3-8.cpp" />
     <ClCompile Include="例3-9.cpp" />
     <ClCompile Include="例4-1.cpp" />
+    <ClCompile Include="例4-2.cpp" />
+    <ClCompile Include="例4-3：整数位数.cpp" />
+    <ClCompile Include="例4-4：判断素数.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />

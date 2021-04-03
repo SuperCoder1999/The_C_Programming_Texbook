@@ -84,6 +84,15 @@
     <ClCompile Include="例4-1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例4-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-3：整数位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例4-4：判断素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
