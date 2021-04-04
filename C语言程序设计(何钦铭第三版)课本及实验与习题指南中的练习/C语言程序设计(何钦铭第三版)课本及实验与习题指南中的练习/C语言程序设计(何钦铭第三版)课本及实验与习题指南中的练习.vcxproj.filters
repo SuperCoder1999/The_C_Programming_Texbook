@@ -135,6 +135,24 @@
     <ClCompile Include="例5-6.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例5-7：全局变量定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例5-8：存钱-全局变量的应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例5-9：静态变量的应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例6-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例6-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例6-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
