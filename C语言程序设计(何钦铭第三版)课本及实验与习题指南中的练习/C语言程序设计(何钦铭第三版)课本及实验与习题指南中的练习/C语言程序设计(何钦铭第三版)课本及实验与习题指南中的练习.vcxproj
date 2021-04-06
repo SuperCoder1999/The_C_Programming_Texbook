@@ -187,6 +187,25 @@
     <ClCompile Include="例6-3.cpp" />
     <ClCompile Include="例6-4.cpp" />
     <ClCompile Include="例6-5.cpp" />
+    <ClCompile Include="例7-1.cpp" />
+    <ClCompile Include="例7-10：日期转换为天数.cpp" />
+    <ClCompile Include="例7-11：判断回文.cpp" />
+    <ClCompile Include="例7-12.cpp" />
+    <ClCompile Include="例7-13：进制合成为整数.cpp" />
+    <ClCompile Include="例7-14：进制双向转换.cpp" />
+    <ClCompile Include="例7-2.cpp" />
+    <ClCompile Include="例7-3.cpp" />
+    <ClCompile Include="例7-4.cpp" />
+    <ClCompile Include="例7-5：选择排序.cpp" />
+    <ClCompile Include="例7-6.cpp" />
+    <ClCompile Include="例7-7：二维数组.cpp" />
+    <ClCompile Include="例7-8.cpp" />
+    <ClCompile Include="例7-9.cpp" />
+    <ClCompile Include="例8-1.cpp" />
+    <ClCompile Include="例8-2.cpp" />
+    <ClCompile Include="例8-3.cpp" />
+    <ClCompile Include="例8-4天数转换为日期.cpp" />
+    <ClCompile Include="例8-5：冒泡排序.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />
