@@ -206,6 +206,7 @@
     <ClCompile Include="例8-3.cpp" />
     <ClCompile Include="例8-4天数转换为日期.cpp" />
     <ClCompile Include="例8-5：冒泡排序.cpp" />
+    <ClCompile Include="例8-6：指针计算数组元素个数.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />

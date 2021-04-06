@@ -216,6 +216,9 @@
     <ClCompile Include="例8-5：冒泡排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例8-6：指针计算数组元素个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
