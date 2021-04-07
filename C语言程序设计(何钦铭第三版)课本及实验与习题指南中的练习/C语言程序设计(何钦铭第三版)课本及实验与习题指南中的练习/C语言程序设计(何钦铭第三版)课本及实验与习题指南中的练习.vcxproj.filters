@@ -222,6 +222,9 @@
     <ClCompile Include="例8-7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例8-8：二分查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
