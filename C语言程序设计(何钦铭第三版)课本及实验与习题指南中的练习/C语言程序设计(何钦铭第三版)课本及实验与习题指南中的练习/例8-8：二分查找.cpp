@@ -28,7 +28,10 @@
 int Bsearch(int arr[], int x) {
 	int left = 0, right = 10;
 	int mid = (left + rught) / 2;
+	while (left <= right)
+	{
 
+	}
 }
 
 int main() {
