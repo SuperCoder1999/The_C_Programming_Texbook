@@ -225,6 +225,30 @@
     <ClCompile Include="例8-8：二分查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例8-9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例8-10：字符串输入输出函数的比较.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例8-11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例8-12：分配动态内存.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例9-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例9-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例9-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例10-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">

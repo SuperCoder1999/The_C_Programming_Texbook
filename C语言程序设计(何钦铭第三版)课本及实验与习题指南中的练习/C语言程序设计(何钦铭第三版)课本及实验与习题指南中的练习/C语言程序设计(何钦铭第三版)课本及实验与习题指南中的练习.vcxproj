@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="例10-1.cpp" />
     <ClCompile Include="例2-1.cpp" />
     <ClCompile Include="例2-10.cpp" />
     <ClCompile Include="例2-11.cpp" />
@@ -202,6 +203,9 @@
     <ClCompile Include="例7-8.cpp" />
     <ClCompile Include="例7-9.cpp" />
     <ClCompile Include="例8-1.cpp" />
+    <ClCompile Include="例8-10：字符串输入输出函数的比较.cpp" />
+    <ClCompile Include="例8-11.cpp" />
+    <ClCompile Include="例8-12：分配动态内存.cpp" />
     <ClCompile Include="例8-2.cpp" />
     <ClCompile Include="例8-3.cpp" />
     <ClCompile Include="例8-4天数转换为日期.cpp" />
@@ -209,6 +213,10 @@
     <ClCompile Include="例8-6：指针计算数组元素个数.cpp" />
     <ClCompile Include="例8-7.cpp" />
     <ClCompile Include="例8-8：二分查找.cpp" />
+    <ClCompile Include="例8-9.cpp" />
+    <ClCompile Include="例9-1.cpp" />
+    <ClCompile Include="例9-2.cpp" />
+    <ClCompile Include="例9-3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h" />
