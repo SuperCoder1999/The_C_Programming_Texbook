@@ -1,2 +1,7 @@
-﻿  例10-1.cpp
-  C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习.vcxproj -> E:\Github\The_C_Programming_Texbook\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\Debug\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习.exe
+﻿  例10-4：汉诺塔.cpp
+E:\Github\The_C_Programming_Texbook\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\例10-4：汉诺塔.cpp(9,8): error C2872: “count”: 不明确的符号
+E:\Github\The_C_Programming_Texbook\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\例10-4：汉诺塔.cpp(4,5): message : 可能是“int count”
+D:\Visual Studio 2019\Visual Studio 2019\VC\Tools\MSVC\14.28.29910\include\xutility(5551,45): message : 或  “iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)”
+E:\Github\The_C_Programming_Texbook\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\例10-4：汉诺塔.cpp(14,8): error C2872: “count”: 不明确的符号
+E:\Github\The_C_Programming_Texbook\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\C语言程序设计(何钦铭第三版)课本及实验与习题指南中的练习\例10-4：汉诺塔.cpp(4,5): message : 可能是“int count”
+D:\Visual Studio 2019\Visual Studio 2019\VC\Tools\MSVC\14.28.29910\include\xutility(5551,45): message : 或  “iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)”

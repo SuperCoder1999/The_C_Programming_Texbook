@@ -249,6 +249,18 @@
     <ClCompile Include="例10-1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例10-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例10-3：递归函数reverse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例10-4：汉诺塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例10-5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">

@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="例10-1.cpp" />
+    <ClCompile Include="例10-2.cpp" />
+    <ClCompile Include="例10-3：递归函数reverse.cpp" />
+    <ClCompile Include="例10-4：汉诺塔.cpp" />
+    <ClCompile Include="例10-5.cpp" />
     <ClCompile Include="例2-1.cpp" />
     <ClCompile Include="例2-10.cpp" />
     <ClCompile Include="例2-11.cpp" />
