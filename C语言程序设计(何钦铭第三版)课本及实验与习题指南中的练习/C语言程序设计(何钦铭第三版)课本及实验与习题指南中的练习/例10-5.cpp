@@ -2,6 +2,6 @@
 #include<cstdio>
 
 int main() {
-	int 
+	int arr[] = { 0 };
 	return 0;
 }
