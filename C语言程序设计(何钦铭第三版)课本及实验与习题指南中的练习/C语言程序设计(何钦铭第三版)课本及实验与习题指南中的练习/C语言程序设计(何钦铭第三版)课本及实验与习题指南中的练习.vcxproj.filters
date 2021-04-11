@@ -267,6 +267,18 @@
     <ClCompile Include="例10-7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例10-8：多文件模块的学生信息库系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例11-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例11-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例11-3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">

@@ -1,6 +1,2 @@
 ﻿  main.cpp
-  函数.cpp
-E:\Github\The_C_Programming_Texbook\学生信息库系统\学生信息库系统\学生信息库系统\函数.cpp(12,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-E:\Github\The_C_Programming_Texbook\学生信息库系统\学生信息库系统\学生信息库系统\函数.cpp(68,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  正在生成代码...
   学生信息库系统.vcxproj -> E:\Github\The_C_Programming_Texbook\学生信息库系统\学生信息库系统\Debug\学生信息库系统.exe
