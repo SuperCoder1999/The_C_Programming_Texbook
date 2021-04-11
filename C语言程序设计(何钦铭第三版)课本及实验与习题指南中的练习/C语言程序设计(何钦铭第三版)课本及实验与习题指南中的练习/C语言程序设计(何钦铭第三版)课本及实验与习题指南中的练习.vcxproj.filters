@@ -261,6 +261,12 @@
     <ClCompile Include="例10-5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例10-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例10-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
