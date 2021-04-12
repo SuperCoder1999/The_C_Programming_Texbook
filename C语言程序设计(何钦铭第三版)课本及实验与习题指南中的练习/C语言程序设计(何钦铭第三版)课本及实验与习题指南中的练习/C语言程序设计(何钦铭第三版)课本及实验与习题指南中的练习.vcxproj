@@ -152,6 +152,9 @@
     <ClCompile Include="例11-3.c" />
     <ClCompile Include="例11-4.c" />
     <ClCompile Include="例11-5.c" />
+    <ClCompile Include="例11-6.cpp" />
+    <ClCompile Include="例11-7.cpp" />
+    <ClCompile Include="例11-8.cpp" />
     <ClCompile Include="例2-1.cpp" />
     <ClCompile Include="例2-10.cpp" />
     <ClCompile Include="例2-11.cpp" />

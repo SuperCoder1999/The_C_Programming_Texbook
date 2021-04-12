@@ -285,6 +285,15 @@
     <ClCompile Include="例11-5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="例11-6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例11-7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="例11-8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Head.h">
