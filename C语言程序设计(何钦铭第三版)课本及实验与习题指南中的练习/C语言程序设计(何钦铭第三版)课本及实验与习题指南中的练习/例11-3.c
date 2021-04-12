@@ -11,7 +11,7 @@
 //	scanf("%s",ch);
 //	for (int i = 0; i < 5; i++) {
 //		if (!strcmp(ch, *(pp + i))) 
-//		{//if (strcmp(ch, **(pp + i)))只需要解引用一次，因为strcmp参数是地址,忘记加 ！
+//		{//if (strcmp(ch, **(pp + i)))只需要解引用一次，因为strcmp参数是地址.还忘记加 ！了
 //			printf("%d", i + 1);
 //				return 0;
 //		}
