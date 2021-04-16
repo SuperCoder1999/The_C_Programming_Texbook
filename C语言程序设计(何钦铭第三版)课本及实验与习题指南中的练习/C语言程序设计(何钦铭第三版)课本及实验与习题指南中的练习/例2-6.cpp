@@ -11,7 +11,7 @@
 //	printf("Fahr celsius\n");
 //	for (int i = lower; i <= upper; i++) {
 //		celsius = 5 * (i - 32) / 9.0;
-//		printf("%d %.1f\n", i, celsius);// 如果可以尝试如何右对齐
+//		printf("%d %.1f\n", i, celsius);// 如果可以,尝试如何右对齐
 //	}
 //	return 0;
 //}
