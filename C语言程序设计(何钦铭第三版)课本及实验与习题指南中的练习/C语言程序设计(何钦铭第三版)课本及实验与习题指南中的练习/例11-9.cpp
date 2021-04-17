@@ -16,7 +16,7 @@
 //	return sin(x) / x;
 //}
 //double calc(double (*fun)(double), double a, double b) {
-//	return (b - a) / 2 * ((*fun)(a) + (*fun)(b));
+//	return (b - a) / 2 * ((*fun)(a) + (*fun)(b));// 这里为什么需要解引用，记得鹏哥视频不需用
 //}
 //int main() {
 //	double a = 0, b = 0;

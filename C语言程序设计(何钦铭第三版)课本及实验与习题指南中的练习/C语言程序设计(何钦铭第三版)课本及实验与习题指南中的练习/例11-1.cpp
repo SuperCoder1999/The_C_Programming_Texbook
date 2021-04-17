@@ -10,7 +10,7 @@
 //	for (int i = 0; i < 5; i++)
 //		if (!strcmp(ch, color[i])) {
 //			cout << i + 1;
-//			return 0;// 如果用开关也行，这里的开关也可以是i的值是否等于5
+//			return 0;// 如果用开关也行，这里的开关可以是i的值是否等于5
 //		}
 //		cout << "No Found";
 //	return 0;

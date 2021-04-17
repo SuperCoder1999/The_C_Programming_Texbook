@@ -1,6 +1,6 @@
 //#include"Head.h"
 //#include<cstdio>
-//
+
 //void Reverse(int n) {
 //	if (n / 10 == 0)
 //		printf("%d", n);
@@ -10,7 +10,7 @@
 //		return Reverse(n/10);// 这里直接写 Reverse(n/10)也可以
 //	}
 //}
-//
+
 //int main() {
 //	int n = 0;
 //	cout << "Enter n:";
