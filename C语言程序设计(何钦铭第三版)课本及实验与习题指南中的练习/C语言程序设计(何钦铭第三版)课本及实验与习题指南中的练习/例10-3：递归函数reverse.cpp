@@ -18,3 +18,12 @@
 //	Reverse(n);
 //	return 0;
 //}
+
+//// 草稿  char ch='男'; 为什么汉字存储需要两个字符，
+//// 而单字节的 ch 变量就能存储 --- 可能记错了，输出是错的。
+//#include<cstdio>
+//int main() {
+//	char ch = '男';
+//	putchar(ch);
+//	return 0;
+//}
